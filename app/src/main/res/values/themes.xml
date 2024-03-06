@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ActionBarDemo" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/yellow_primary_color</item>
+    </style>
+
+    <style name="Theme.ActionBarDemo" parent="Base.Theme.ActionBarDemo" />
+</resources>
